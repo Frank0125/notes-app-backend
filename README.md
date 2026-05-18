@@ -23,7 +23,7 @@ Copy `.env.example` to `.env` and set `CORS_ORIGINS` to the frontend URLs that m
 - Interactive docs: http://127.0.0.1:8000/docs
 
 
-## Testssssss
+## Tests
 
 ```bash
 pip install -r requirements.txt
